@@ -1,6 +1,6 @@
 body {
   background: url("../img/background-full.jpg") repeat center;
-  background-size: cover; }
+  background-size: 100%; }
 
 a.active {
   font-weight: 700;
